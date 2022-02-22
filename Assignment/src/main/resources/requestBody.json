@@ -1,0 +1,20 @@
+{
+  "area":500,
+  "average_inflow_rate":50,
+  "area_watered_per_irrigation":100,
+  "volume_water_per_irrigation":1000,
+  "irrigation_after_hours":5,
+  "location":{
+    "type":"point",
+    "coordinates":[27.2046,77.2046]
+  }
+}
+
+
+{
+  "pageNumber":0,
+  "size":1,
+  "sortKey":"area",
+  "sortDir":1
+}
+
